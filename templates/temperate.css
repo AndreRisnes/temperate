@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica, sans-serif;
+    line-height: 1.5;
+    font-size: 14px;
+    color: #202040;
+    margin-top: 24px;
+    background: white
+}
+
+h2 {
+    margin: 0
+}
+
+#top-row-container {
+    margin-left: 50px;
+    margin-bottom: 16px;
+}
+
+#parameter-box {
+}
+
+#parameter-box input {
+    width: 64px;
+}
+
+#parameter-box label {
+    display: block;
+    width: 280px;
+    height: 32px;
+}
+
+#parameter-box label input {
+    position: absolute;
+    left: 260px;
+}
+
+#readings-box {
+    position: absolute;
+    left: 380px;
+    top: 24px;
+}
+
+#readings-box p {
+    margin: 0px 0px 11px;
+}
+
+#plot-box h2 {
+    margin-left: 50px
+}
